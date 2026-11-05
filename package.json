@@ -1,0 +1,17 @@
+{
+  "name": "neon-survivor",
+  "version": "1.0.0",
+  "description": "Neon Survivor - A cyberpunk arcade survival game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "playwright": "^1.64.1",
+    "vite": "^5.4.0"
+  }
+}
